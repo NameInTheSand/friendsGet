@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FriendsGet</string>
+    <string name="user_id_set">Enter users id</string>
+    <string name="get">Get friends</string>
+</resources>
